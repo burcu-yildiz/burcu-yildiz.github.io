@@ -1,0 +1,37 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 2
+[[menu.main]]
+    name = "Publications"
+    url  = "/publications"
+    weight = 2
+
+
+[params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:burcu.yildiz@epfl.ch"
+        weight = 1
+    [params.social.linkedin]
+        name = "Linkedin"
+        class = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/burcu-yildiz/"
+        weight = 2
+    [params.social.google_scholar]
+        name = "Google Scholar"
+        class = "ai ai-google-scholar-square"
+        url = "https://scholar.google.com/citations?user=UI69_0sAAAAJ"
+        weight = 3
