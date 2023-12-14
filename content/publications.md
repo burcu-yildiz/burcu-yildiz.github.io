@@ -4,7 +4,6 @@ hide_title: true
 draft: false
 ---
 
-
 1. [**On Parallel Repetition of PCPs**](https://eprint.iacr.org/2023/1714)   
 *Alessandro Chiesa, Ziyi Guan, and **Burcu Yıldız***  
 <sm  style="font-size: 0.8em;">
