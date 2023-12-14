@@ -1,9 +1,9 @@
 ---
 title: Publications
 hide_title: true
+draft: false
 ---
 
-# Peer reviewed papers <!--(reverse chronological order)><-->
 
 1. [**On Parallel Repetition of PCPs**](https://eprint.iacr.org/2023/1714)   
 *Alessandro Chiesa, Ziyi Guan, and **Burcu Yıldız***  

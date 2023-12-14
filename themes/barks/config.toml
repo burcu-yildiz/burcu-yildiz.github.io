@@ -9,7 +9,7 @@
     weight = 2
 [[menu.main]]
     name = "Publications"
-    url  = "/publications"
+    url  = "/#publications"
     weight = 2
 
 
