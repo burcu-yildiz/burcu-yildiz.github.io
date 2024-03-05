@@ -15,4 +15,3 @@ ITCS 2024 (15th Innovations in Theoretical Computer Science).
 <sm style="font-size: 0.8em;">
 CCSW 2021 (The ACM Cloud Computing Security Workshop 2021).
 </sm>
-
